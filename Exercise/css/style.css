@@ -1,0 +1,21 @@
+.hallo {
+    position: relative;
+    
+
+}
+
+.halloween {
+    position: absolute;
+    top: 5px;
+    width: 50%;
+    text-align: center;
+    color:lawngreen;
+}
+
+p {
+    font-size: 22px;
+}
+
+img:hover {
+    opacity: 0.6;
+}
